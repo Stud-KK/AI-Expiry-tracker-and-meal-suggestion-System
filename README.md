@@ -3,7 +3,13 @@
 
 # 🧠 AI-Powered Expiry Predictor & Meal Suggestion System
 
-A smart food inventory web application that helps users track groceries, predicts expiry dates using machine learning, and suggests meals based on what's nearing expiry. It also promotes sustainability by recommending reuse or composting ideas for expired food.
+AI-Powered Expiry Predictor & Meal Suggestion System is a smart food inventory web application designed specifically to tackle the challenge of managing unpacked or fresh food items—such as fruits, vegetables, leafy greens, dairy, and homemade food—which typically do not have printed expiry dates.
+
+Using a trained machine learning model, the system predicts how long these fresh items will stay usable based on their type, current condition (e.g., fresh, okay, slightly spoiled), and storage method (e.g., room temperature, fridge, freezer). This helps users make informed decisions before food spoils.
+
+Additionally, the system enhances everyday meal planning by suggesting recipes based on what's nearing expiry, integrating with the Edamam API to also show nutritional values. If items have already expired, the app promotes sustainability by recommending eco-friendly reuse ideas (like turning sour milk into paneer) or composting options to minimize food waste.
+
+This tool is especially helpful for households, restaurants, and small kitchens that rely on fresh produce and want to reduce waste while optimizing grocery usage.
 
 ---
 
