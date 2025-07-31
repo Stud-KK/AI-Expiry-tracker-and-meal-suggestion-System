@@ -35,7 +35,7 @@ This tool is especially helpful for households, restaurants, and small kitchens 
   - `Item Condition` (fresh, okay, slightly spoiled)
 - **Target**: Number of days before the item expires
 - **Evaluation Metric**: Mean Absolute Error (MAE)
-- **Performance**: Achieved MAE of ~3 days
+- **Performance**: Achieved MAE of ~1 days
 
 🔍 This model is especially useful for fresh items that don’t come with printed expiry dates. By analyzing how storage and condition affect longevity, the model helps users reduce food waste and make informed decisions.
 
